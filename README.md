@@ -1,4 +1,4 @@
-#Zyklus
+# Zyklus
 
 A simple event loop for executing functions within the loop's thread.
 
